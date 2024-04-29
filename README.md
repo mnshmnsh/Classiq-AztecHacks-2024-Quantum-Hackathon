@@ -5,4 +5,4 @@ It is a superposition of all states that have only 1 qubit
 set to 1 with the rest being 0. It uses a decomposed Toffoli gate in form of a sequence of CNOTs.
 It yields the states '001', 010' and '100' in superposition.
 
-The notebook "functions" implements largely arithmetic functions using the Classiq SDK.
+The notebook "challenge-functions" implements largely arithmetic functions using the Classiq SDK.
